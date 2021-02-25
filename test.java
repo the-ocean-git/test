@@ -1,6 +1,6 @@
 package testJava;
 public class testProject { 
 public static void main(String[] args) { 
-  println("hello world");
+  println("hello, world");
   } 
 }
